@@ -1,0 +1,12 @@
+How to play this gesture-based game
+
+1.Launch the game: Run the Python code to start the game. The game window will open, displaying a white rectangular player at the bottom of the screen.
+2.Position your hand: Position your hand in front of the webcam, ensuring it is within the camera's field of view. Make sure your hand is well-lit and distinguishable from the background.
+3.Recognize gestures: The game uses hand gestures to control the player's movement. Extend your index finger to control the player's movement.
+4.Left gesture: Move your extended index finger to the left side of the screen to make the player move left.
+5.Right gesture: Move your extended index finger to the right side of the screen to make the player move right.
+6.Neutral gesture: If your index finger is in the middle area of the screen, the player will stay in its current position.
+7.Dodge the falling obstacle: An obstacle in the form of a red rectangular box will fall from the top of the screen. You aim to dodge the obstacle by moving the player left or right using hand gestures.
+8.Game over: If the player collides with the falling obstacle, the game ends. The screen will display a "Game Over" message, along with a restart button.
+9.Restart the game: To restart the game, simply click the restart button displayed on the screen when the game is over. The player and obstacle positions will be reset, and you can continue playing.
+10.Quit the game: To quit the game, close the game window or press the "X" button.
