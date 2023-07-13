@@ -9,4 +9,4 @@ How to play this gesture-based game
 7.Dodge the falling obstacle: An obstacle in the form of a red rectangular box will fall from the top of the screen. You aim to dodge the obstacle by moving the player left or right using hand gestures.
 8.Game over: If the player collides with the falling obstacle, the game ends. The screen will display a "Game Over" message, along with a restart button.
 9.Restart the game: To restart the game, simply click the restart button displayed on the screen when the game is over. The player and obstacle positions will be reset, and you can continue playing.
-10.Quit the game: To quit the game, close the game window or press the "X" button.
+10.Quit the game: To quit the game, close the game window or press the "X" button. 
