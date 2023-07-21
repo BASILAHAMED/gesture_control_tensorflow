@@ -4,3 +4,4 @@ This game combines video processing, gesture recognition, and game mechanics in 
 Further, improve this code with additional features, and more gestures to make this very interesting.
 
 View instructions.txt file, to knew more about playing this game. Happy Gaming. 
+ 
